@@ -16,7 +16,7 @@ const SSR: NextPage<SSRProps> = (props) => {
         <div>
             <Head>
                 <title>SSR</title>
-                <link ref="icon" href="/favicon.ico" />
+                <link rel="icon" href="/favicon.ico" />
             </Head>
             <main>
                 <p>
