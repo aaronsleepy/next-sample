@@ -16,3 +16,11 @@ $ npm run dev
 ```
 
 * 샘플 프로젝트 접속: http://localhost:3000
+
+
+## Dependencies
+* styled-components
+```shell
+$ npm install --save styled-components
+$ npm install --save-dev @types/styled-components
+```
