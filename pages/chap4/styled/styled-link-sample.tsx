@@ -5,6 +5,7 @@ import { styled } from "styled-components";
 
 /**
  * Next.js 컴포넌트에 스타일을 사용하기
+ * - 오래된 예제. 무시하자
  */
 type BaseLinkProps = React.PropsWithChildren<LinkProps> & {
     className?: string
