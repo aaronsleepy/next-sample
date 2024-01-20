@@ -3,7 +3,7 @@ import { Input } from ".";
 
 /**
  * index.tsx 컴포넌트에 대한 Test
- * - version이 맞지 않으 SKIP
+ * - version이 맞지 않아 SKIP
  */
 // describe('Input', () => {
 //     let renderResult: RenderResult
