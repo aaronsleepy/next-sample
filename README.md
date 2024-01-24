@@ -76,3 +76,27 @@ In /Users/aaron/Github/Aaron/NextJs/next-sample
   testRegex:  - 0 matches
 Pattern:  - 0 matches
 ```
+
+
+## Storbybook
+### 설치
+* 최신 설치 버전: 7.6.10
+```shell
+$ npx sb init
+```
+
+### 실행
+```shell
+$ npm run storybook
+
+╭─────────────────────────────────────────────────────╮
+│                                                     │
+│   Storybook 7.6.10 for nextjs started               │
+│   845 ms for manager and 15 s for preview           │
+│                                                     │
+│    Local:            http://localhost:6006/         │
+│    On your network:  http://192.168.45.162:6006/    │
+│                                                     │
+╰─────────────────────────────────────────────────────╯
+```
+
